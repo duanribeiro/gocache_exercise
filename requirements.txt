@@ -1,0 +1,7 @@
+gunicorn
+json
+bson
+flask_restplus
+flask
+flask_cors
+logging
